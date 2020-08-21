@@ -1,0 +1,263 @@
+{
+   "campaign":{
+      "uuid":"7c6443a2-846e-11ea-9307-42010a85007b",
+      "description":"",
+      "starts_at":1588284000000,
+      "ends_at":1604098800000,
+      "kpi_interactions":null,
+      "kpi_reads":1000000,
+      "kpi_redirections":null,
+      "kpi_reach":null,
+      "name":"Guigoz 2020 - Lait Evolia A2",
+      "operations_count":7,
+      "planning_status":"validated",
+      "planning_sent_at":1587542187000,
+      "paused_at":null,
+      "salesforce_id":"0061r00001DIMCdAAP",
+      "salesforce_url":"https://wemoms.lightning.force.com/lightning/r/Opportunity/0061r00001DIMCdAAP/view",
+      "planning_stages":[
+
+      ],
+      "wemoms_partners_url":"http://partners.wemoms.com/app#/campaign/7c6443a2-846e-11ea-9307-42010a85007b",
+      "next_operation_to_validate_date":1598911200000,
+      "partner_goals":"Construire la notoriété d’un nouvel ingrédient (protéine A2) : augmentation du nombre de mentions / connaissance de cette molécule par la communauté.\n\nPost test : demander si elles connaissent le lait A2 avant et après la campagne",
+      "target_audience":null,
+      "roi_expected":"- Augmentation du nombre de mentions A2\n- Post test : savoir si les Moms sont + nombreuses à connaitre le lait A2 après la campagne",
+      "roi_obtained":"- Pas de visibilité pour savoir si le post test fonctionne ou pas\n- Aucune mention de \"lait A2\" sur l'app",
+      "risk_status":"low_risk",
+      "kick_off_notes":null,
+      "total_impressions":622795,
+      "unique_impressions":178891,
+      "interactions":5231,
+      "redirections":173,
+      "partner":{
+         "uuid":"01c0c96a-0217-11ea-9586-42010a85000e",
+         "name":"Laboratoires Guigoz",
+         "picture":"https://d1f1a36j7780wd.cloudfront.net/prod/pictures/original/6a0a7aec-06f5-11ea-b849-42010a850033_1574787446_picture?1574787446",
+         "brand":{
+            "number_of_feedbacks_on_profile":0,
+            "email":null,
+            "website":null,
+            "profile_background_url":"https://d1f1a36j7780wd.cloudfront.net/prod/brands/back/original/01c0c96a-0217-11ea-9586-42010a85000e_1587484747_background?1587484747",
+            "about_title":"Les Laboratoires Guigoz : Parlons bébé ! ❤️",
+            "about_text":"Soucieux du bien-être des bébés, les Laboratoires Guigoz vous accompagnent au quotidien dans votre expérience de parents en vous livrant conseils et astuces. Inspirés par 60 ans de recherche sur le lait maternel, les Laboratoires Guigoz conçoivent, conformément à la règlementation, des formules infantiles qui répondent aux besoins nutritionnels spécifiques de votre bébé, de 6 mois jusqu'à 3 ans. Parce que le lait maternel est l'aliment le mieux adapté aux besoins spécifiques de bébé, les Laboratoires Guigoz encouragent et soutiennent l’allaitement maternel au moins jusqu’aux 6 mois de l'enfant.",
+            "about_picture":"https://d1f1a36j7780wd.cloudfront.net/prod/brands/about/01cc37a0-0217-11ea-9586-42010a85000e_1573746577_about_picture?1573746577",
+            "validation_status":"valid"
+         }
+      },
+      "operations":[
+         {
+            "name":"Les tétées nocturnes et le sevrage : comment gérer ? 🤱🏼🌙",
+            "starts_at":1598911200000,
+            "ends_at":1604098800000,
+            "format_type":"canvas",
+            "brand":{
+               "uuid":"01c0c96a-0217-11ea-9586-42010a85000e",
+               "name":"Laboratoires Guigoz",
+               "last_name":null,
+               "username":"guigoz",
+               "picture":"https://d1f1a36j7780wd.cloudfront.net/prod/pictures/original/6a0a7aec-06f5-11ea-b849-42010a850033_1574787446_picture?1574787446",
+               "pregnancy_period":null,
+               "children":[
+
+               ]
+            },
+            "uuid":"989ba1c8-846e-11ea-8e90-42010a850fcf",
+            "paused_at":null,
+            "format":{
+               "name":"Les tétées nocturnes et le sevrage : comment gérer ? 🤱🏼🌙",
+               "marketing_strategy":"branding",
+               "number_of_feedbacks":0,
+               "concurrence":{
+                  "id":4303,
+                  "name":"Lait infantile"
+               },
+               "validation_date":1597615200000,
+               "validation_status":"to_integrate",
+               "run_status":null
+            }
+         },
+         {
+            "name":"Tague le papa, cette nuit c'est lui qui donne le biberon ! 🍼🌙💤",
+            "starts_at":1588888800000,
+            "ends_at":1588975200000,
+            "format_type":"ad_inspi",
+            "brand":{
+               "uuid":"01c0c96a-0217-11ea-9586-42010a85000e",
+               "name":"Laboratoires Guigoz",
+               "last_name":null,
+               "username":"guigoz",
+               "picture":"https://d1f1a36j7780wd.cloudfront.net/prod/pictures/original/6a0a7aec-06f5-11ea-b849-42010a850033_1574787446_picture?1574787446",
+               "pregnancy_period":null,
+               "children":[
+
+               ]
+            },
+            "uuid":"989e7984-846e-11ea-8e90-42010a850fcf",
+            "paused_at":null,
+            "format":{
+               "name":"Tague le papa, cette nuit c'est lui qui donne le biberon ! 🍼🌙💤",
+               "marketing_strategy":"branding",
+               "number_of_feedbacks":0,
+               "concurrence":{
+                  "id":4307,
+                  "name":"Lait artificiel"
+               },
+               "validation_date":1587592800000,
+               "validation_status":"valid",
+               "run_status":null
+            }
+         },
+         {
+            "name":"Calendrier de sevrage : trouver son rythme 📆",
+            "starts_at":1588284000000,
+            "ends_at":1604098800000,
+            "format_type":"carousel",
+            "brand":{
+               "uuid":"01c0c96a-0217-11ea-9586-42010a85000e",
+               "name":"Laboratoires Guigoz",
+               "last_name":null,
+               "username":"guigoz",
+               "picture":"https://d1f1a36j7780wd.cloudfront.net/prod/pictures/original/6a0a7aec-06f5-11ea-b849-42010a850033_1574787446_picture?1574787446",
+               "pregnancy_period":null,
+               "children":[
+
+               ]
+            },
+            "uuid":"98a0ddd2-846e-11ea-8e90-42010a850fcf",
+            "paused_at":null,
+            "format":{
+               "name":"Calendrier de sevrage : trouver son rythme 📆",
+               "marketing_strategy":"branding",
+               "number_of_feedbacks":0,
+               "concurrence":null,
+               "validation_date":1586988000000,
+               "validation_status":"valid",
+               "run_status":null
+            }
+         },
+         {
+            "name":"5 conseils pour un sevrage réussi 🦸🍼",
+            "starts_at":1598911200000,
+            "ends_at":1604098800000,
+            "format_type":"carousel",
+            "brand":{
+               "uuid":"01c0c96a-0217-11ea-9586-42010a85000e",
+               "name":"Laboratoires Guigoz",
+               "last_name":null,
+               "username":"guigoz",
+               "picture":"https://d1f1a36j7780wd.cloudfront.net/prod/pictures/original/6a0a7aec-06f5-11ea-b849-42010a850033_1574787446_picture?1574787446",
+               "pregnancy_period":null,
+               "children":[
+
+               ]
+            },
+            "uuid":"98a36e8a-846e-11ea-8e90-42010a850fcf",
+            "paused_at":null,
+            "format":{
+               "name":"5 conseils pour un sevrage réussi 🦸🍼",
+               "marketing_strategy":"branding",
+               "number_of_feedbacks":0,
+               "concurrence":{
+                  "id":4303,
+                  "name":"Lait infantile"
+               },
+               "validation_date":1597615200000,
+               "validation_status":"to_integrate",
+               "run_status":null
+            }
+         },
+         {
+            "name":"Une Mom teste et recommande le Lait Evolia A2 à la communauté ✅",
+            "starts_at":1593727200000,
+            "ends_at":1593813600000,
+            "format_type":"testings",
+            "brand":{
+               "uuid":"01c0c96a-0217-11ea-9586-42010a85000e",
+               "name":"Laboratoires Guigoz",
+               "last_name":null,
+               "username":"guigoz",
+               "picture":"https://d1f1a36j7780wd.cloudfront.net/prod/pictures/original/6a0a7aec-06f5-11ea-b849-42010a850033_1574787446_picture?1574787446",
+               "pregnancy_period":null,
+               "children":[
+
+               ]
+            },
+            "uuid":"98a66414-846e-11ea-8e90-42010a850fcf",
+            "paused_at":null,
+            "format":{
+               "name":"Une Mom teste et recommande le Lait Evolia A2 à la communauté ✅",
+               "marketing_strategy":"product",
+               "number_of_feedbacks":0,
+               "concurrence":null,
+               "validation_date":1589493600000,
+               "validation_status":"valid",
+               "run_status":"waiting_for_brief"
+            }
+         },
+         {
+            "name":"Une Mom teste et recommande le Lait Evolia A2 à la communauté ✅",
+            "starts_at":1601330400000,
+            "ends_at":1601416800000,
+            "format_type":"testings",
+            "brand":{
+               "uuid":"01c0c96a-0217-11ea-9586-42010a85000e",
+               "name":"Laboratoires Guigoz",
+               "last_name":null,
+               "username":"guigoz",
+               "picture":"https://d1f1a36j7780wd.cloudfront.net/prod/pictures/original/6a0a7aec-06f5-11ea-b849-42010a850033_1574787446_picture?1574787446",
+               "pregnancy_period":null,
+               "children":[
+
+               ]
+            },
+            "uuid":"98a9a2be-846e-11ea-8e90-42010a850fcf",
+            "paused_at":null,
+            "format":{
+               "name":"Une Mom teste et recommande le Lait Evolia A2 à la communauté ✅",
+               "marketing_strategy":"product",
+               "number_of_feedbacks":0,
+               "concurrence":null,
+               "validation_date":1600034400000,
+               "validation_status":"to_validate",
+               "run_status":"recruitment"
+            }
+         },
+         {
+            "name":"Une Mom teste et recommande le Lait Evolia A2 à la communauté ✅",
+            "starts_at":1603753200000,
+            "ends_at":1603839600000,
+            "format_type":"testings",
+            "brand":{
+               "uuid":"01c0c96a-0217-11ea-9586-42010a85000e",
+               "name":"Laboratoires Guigoz",
+               "last_name":null,
+               "username":"guigoz",
+               "picture":"https://d1f1a36j7780wd.cloudfront.net/prod/pictures/original/6a0a7aec-06f5-11ea-b849-42010a850033_1574787446_picture?1574787446",
+               "pregnancy_period":null,
+               "children":[
+
+               ]
+            },
+            "uuid":"98abf01e-846e-11ea-8e90-42010a850fcf",
+            "paused_at":null,
+            "format":{
+               "name":"Une Mom teste et recommande le Lait Evolia A2 à la communauté ✅",
+               "marketing_strategy":"product",
+               "number_of_feedbacks":0,
+               "concurrence":null,
+               "validation_date":1602457200000,
+               "validation_status":"to_validate",
+               "run_status":"recruitment"
+            }
+         }
+      ],
+      "campaign_impact_insight_urls":[
+         {
+            "uuid":"13cd24dc-cc1a-11ea-b388-528d25b8a760",
+            "name":"Evolution des mentions autour du lait A2",
+            "url":"https://backoffice.wemoms.com/app#/insights/browsing/comments?payload=%7B%22search%22%3A%22%5C%22lait%20A2%5C%22%22,%22date%22%3A%5B%5D,%22child%22%3Anull,%22maternity%22%3Anull%7D"
+         }
+      ]
+   }
+}
